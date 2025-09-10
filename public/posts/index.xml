@@ -15,5 +15,24 @@
 <p>abcde</p>
 <p><img class="tw-inline" loading="lazy" src='/zalo_last_screenshot.png'   alt="HINH" height="426" width="423">
 <img class="tw-inline" loading="lazy" src='/Screenshot.png'   alt="HIN2" height="768" width="1366"></p>]]></description>
+</item><item>
+    <title>My post</title>
+    <link>http://localhost:1313/posts/my_post/</link>
+    <pubDate>Wed, 10 Sep 2025 09:37:09 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/my_post/</guid>
+    <description><![CDATA[<script type="WaveDrom">{signal: [
+  {name: 'clock',   wave: 'p................'},
+  {name: 'hwrite',  wave: 'x0x.0x..0.x.0.x..'},
+  {name: 'htrans',  wave: 'x3x.4x..5.x.6.x..', data: '2 2 2 2'},
+  {name: 'haddr',   wave: 'x3x.4x..5.x.6.x..', data: 'A0 A1 A2 A3'},
+  {},
+  {name: 'hready',  wave: 'x1.x101x01.x0101x'},
+  {name: 'hrdata',  wave: 'x.3x..4x..5x...6x', data: 'D0 D1 D2 D3'},
+],
+    head: {tock: 1},
+    gaps: '( . . 1 . s . 1 s . . 1 s . s . )',
+    foot: {text: 'reads'}
+}</script>]]></description>
 </item></channel>
 </rss>
